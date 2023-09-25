@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [website](https://markwmc.github.io/website/)
 
-- 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C# Python**
+- 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python**
 
 - 📫 How to reach me **mark.mcclallen1@gmail.com**
 
