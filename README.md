@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mark M</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center"> full stack developer</h3>
 
-- 🔭 I’m currently working on [website](https://markwmc.github.io/website/)
+- 🔭 I’m currently working on: Changing my personal computer dev env to Oracle VM VirtualBox running Xubuntu. feel free to check out my repos or wip: [website](https://markwmc.github.io/website/)
 
 - 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python**
 
