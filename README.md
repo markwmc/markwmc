@@ -8,9 +8,9 @@
 - 📫 How to reach me **mark.mcclallen1@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/)
+<p align="left"> 
 </p>
-
+Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/)
 
 
 <h3 align="left">Languages and Tools:</h3>
