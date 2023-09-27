@@ -12,7 +12,7 @@
 </p>
 
 
-Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/)
+Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/\n)
 [![linkedin](https://github.com/markwmc/markwmc/assets/72152638/43ef1f97-aac4-4a24-9f07-33de8851c8f7)](https://www.linkedin.com//in/mark-m1)
 
 
