@@ -14,8 +14,7 @@
 
 Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/)
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/mark-m1)
-
+![linkedin](https://github.com/markwmc/markwmc/assets/72152638/43ef1f97-aac4-4a24-9f07-33de8851c8f7)(https://www.linkedin.com//in/mark-m1)
 
 
 <h3 align="left">Languages and Tools:</h3>
