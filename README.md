@@ -11,10 +11,7 @@
 <p align="left"> 
 </p>
 
-<a href="https://www.linkedin.com/in/mark-m1/" target="_blank" rel="noreferrer"> <i class="bi bi-linkedin"></i>
-
-
-</svg>
+<i class="bi bi-linkedin"></i>
 Indeed [Resume](https://profile.indeed.com/p/markm-ug6dzno/)
 
 <h3 align="left">Languages and Tools:</h3>
