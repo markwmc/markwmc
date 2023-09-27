@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark M</h1>
 <h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on: Changing my pc dev env to Oracle VM VirtualBox running Xubuntu. feel free to check out my repos or wip: [website]. This is my personal projects repo., my current employment repo is hidden.(https://markwmc.github.io/website/)
+- 🔭 I’m currently working on: Changing my pc dev env to Oracle VM VirtualBox running Xubuntu. feel free to check out my repos or wip: [website](https://markwmc.github.io/website/). This is my personal projects repo., my current employment repo is hidden.
 
 - 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python, and everything else listed below**
 
