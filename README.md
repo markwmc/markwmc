@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python, and everything else listed below**
 
-- 📫 How to reach me **mark.mcclallen1@gmail.com** 
+- 📫 How to reach me **[email](mark.mcclallen1@gmail.com)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
