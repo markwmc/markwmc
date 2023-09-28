@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python, and everything else listed below**
 
+- - Youtube Channels I'm currently binging: [NetworkChuck](https://www.youtube.com/@NetworkChuck), [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen), [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+
 - 📫 How to reach me **[email](mark.mcclallen1@gmail.com)** 
 
 <h3 align="left">Connect with me:</h3>
