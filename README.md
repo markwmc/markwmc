@@ -22,5 +22,5 @@ For an overview of what I'm professionally working on, check out my Indeed [Resu
 <h3></h3>
 #
 <details>
-  <summary><h3>My Dev Journey</h3>test</summary>
+  <summary><h3>My Dev Journey</h3></summary>test
 </details>
