@@ -1,7 +1,7 @@
 <h1 align="center">Mark M</h1>
 <h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on: Changing my pc dev env to Oracle VM VirtualBox running Xubuntu. feel free to check out my repos or wip: [website](https://markwmc.github.io/website/). all projects are either tutorials, references, or complete self-builds from planning to publishing. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
+- 🔭 I’m currently working on: Changing my pc dev env to Oracle VM VirtualBox running Xubuntu. feel free to check out my repos or wip: [website](https://markwmc.github.io/website/). All projects are either tutorials, references, or complete self-builds from planning to publishing. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
 
 - 🌱 I’m currently learning **FHIR, Go, JavaScript, .NET, MSSQL, C#, Python, and everything else listed below**
 
@@ -26,11 +26,21 @@ For an overview of what I'm professionally working on, check out my Indeed [Resu
 I never believed I would need dev experience until about 5 years ago. The concept of
 learning programming was terrifying, and even though I had taken some college courses
 and dabbled with various free coding sites, I put off diving in until Jan 2023. The
-catalyst turned out to be automation. The company I worked with had contracted out
+catalysts were automation and survival. The company I worked with had contracted out
 a lot of my work to a SaaS. My job became much easier - basically reviewing the work of the Saas,
  and I quickly realized that the entire project could be automated. My time was limited.
 Additionally, my career progression had hit a wall. With no programming skills; I was becoming obsolete. 
-So, I left my job, took out loans, and learned as much as I could as fast as I could from anyone who would give
+So, I left my job, took out personal loans, and learned as much as I could as fast as I could from anyone who would give
 me the time. Since then I've fully immersed myself in all things tech. Leaving no stones unturned. I'm just starting out,
 but I am using my life experience to facilitate the process.
+
+  I had to break through so many assumptions and limiting beliefs to get to this point. Now that I am here, my whole perspective of the physical and virtual world has changed. I can never go back, nor do I want to. What started out as a desperate attempt to stay valuable has turned into a quest for something. I'm not quite sure where this will lead. 
+  
+  What surprised me the most about development is the creativity required. It's one thing to start a small app project and maintain it on a github repo. Learning multiple codebases in JavaScript with multiple JS libraries and dependencies, then writing a Go middleware program to interface with it and external apis to send request bodies that contain patient data to redirects and sign in pages is a whole new level of abstraction that I've never encountered before.
+
+  The next surprise was the complexity of CI/CD. With different environments, to Docker, Kubernetes, Artifactory, Jenkins, just to name a few, has forced me to upskill at an incredible pace. I am learning how to focus on the bare minimum needed to accomplish the task, then go back on my own time to build a better foundation. 
+
+ I have also learned just how vulnerable everything is. Coming from a military background I have learned just how vulnerable our physical world is, as well as our country, and now I have a better understanding of cybersecurity as well.
+
+  I'm interested in learning robotics, ML/LLM, and how we can utilize those for physical security, space exploration/mining/habitation. 
 </details>
