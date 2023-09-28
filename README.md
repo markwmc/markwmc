@@ -42,5 +42,5 @@ but I am using my life experience to facilitate the process.
 
  I have also learned just how vulnerable everything is. Coming from a military background I have learned just how vulnerable our physical world is, as well as our country, and now I have a better understanding of cybersecurity as well.
 
-  I'm interested in learning robotics, ML/LLM, and how we can utilize those for physical security, space exploration/mining/habitation. 
+  While I don't have a preference where I work/ what I learn for now; on my own time I'm interested in learning robotics, ML/LLM, and how we can utilize those for physical security, space exploration/mining/habitation. 
 </details>
