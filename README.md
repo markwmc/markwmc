@@ -7,7 +7,7 @@
 
 -  Youtube Channels I'm currently binging: [NetworkChuck](https://www.youtube.com/@NetworkChuck), [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen), [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 
--  Bootcamp I'm working through: [freeCodeCamp.org](freecodecamp.org/)
+-  Bootcamp I'm working through: [freeCodeCamp](https://freecodecamp.org/)
 
 - 📫 How to reach me **[email](mark.mcclallen1@gmail.com)**
 
