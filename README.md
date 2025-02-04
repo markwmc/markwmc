@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, PostgreSQL, Python, and everything else listed below**
 
--  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), Dave's Garage](https://www.youtube.com/@DavesGarage)
+-  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), [Dave's Garage](https://www.youtube.com/@DavesGarage)
 
 -  Bootcamp I'm working through: 
 
