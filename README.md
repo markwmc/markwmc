@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on: configuring Home Assistant OS to work on a separate network that also works with my house VPN, and exposing a port so I can control it from anywhere with my phone, and building a sauna and plunge pool from trees I had cut down on my property. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
 
-- 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, PostgreSQL, Python, and everything else listed below**
+- 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, WSO2 7, PostgreSQL, Python, Solidty, and HardHat**
 
--  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), [Dave's Garage](https://www.youtube.com/@DavesGarage)
+-  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), [Dave's Garage](https://www.youtube.com/@DavesGarage), [Chainlink](https://www.youtube.com/@chainlink)
 
--  Bootcamp I'm working through: 
+-  certification I'm working through: [chainlink](https://chainlink.codio.com/)
 
 - 📫 How to reach me **[email](mark.mcclallen1@gmail.com)**
 
