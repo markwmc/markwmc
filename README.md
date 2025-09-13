@@ -1,7 +1,7 @@
 <h1 align="center">Mark M</h1>
 <h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on: configuring Home Assistant OS to work on a separate network that also works with my house VPN, and building a sauna and plunge pool from trees I had cut down on my property. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
+- 🔭 I’m currently working on:  working though [Beyond Cracking the Coding Interview](https://start.interviewing.io/beyond-ctci/part-i-preface/what-is-this-book) religiously. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
 
 - 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, WSO2 7, PostgreSQL, Python, Remix IDE, Solidty, and HardHat**
 
