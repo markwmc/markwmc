@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:  working though [Beyond Cracking the Coding Interview](https://start.interviewing.io/beyond-ctci/part-i-preface/what-is-this-book) religiously. For a more detailed story, check out the dropdown [below](https://github.com/markwmc/markwmc/blob/main/README.md#my-dev-journey).
 
-- 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, WSO2 7, PostgreSQL, Python, Remix IDE, Solidty, and HardHat**
+- 🌱 I’m currently learning **Ionic 8, Vite, TypeScript, React, Go, JavaScript, WSO2 7, PostgreSQL, Python, Remix IDE, Solidity, and HardHat**
 
 -  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), [Dave's Garage](https://www.youtube.com/@DavesGarage), [Chainlink](https://www.youtube.com/@chainlink)
 
