@@ -7,9 +7,9 @@
 
 -  Youtube Channels I'm currently binging: [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy), [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery), [Dave's Garage](https://www.youtube.com/@DavesGarage), [Chainlink](https://www.youtube.com/@chainlink)
 
--  Certification I'm working through: [chainlink](https://chainlink.codio.com/)
+-  Certification I'm working through: [AWS Cloud Practitioner](https://skillbuilder.aws/)
 
--  Book I'm reading: [Nomad Capitalist](https://nomadcapitalist.com/book/)
+-  Book I'm reading: [Beyond Cracking the Coding Interview](https://start.interviewing.io/beyond-ctci/part-i-preface/what-is-this-book)
 
 - 📫 How to reach me **[email](mark.mcclallen1@gmail.com)**
 
@@ -27,6 +27,9 @@ For an overview of what I'm professionally working on, check out my Indeed [Resu
 
 <details>
   <summary><h3>My Dev Journey</h3></summary>
+
+  9/5/2025 I Learned about the WARN Act and how quickly companies can move from acquisition and "discussing employee integration" to deciding to rm -rf /github.com/${aquiredCompany} due to "redundancy". I anticipated this would happen and started working through and following the plan in [Beyond Cracking the Coding Interview](https://start.interviewing.io/beyond-ctci/part-i-preface/what-is-this-book). 
+  
   Well. 2 years already. I'm finally getting the hang of this. and by this I mean the constant change, constant pivoting, constant switching from starting new projects and features, throwing all the work away, actually creating new products and features, to debugging legacy systems in the same sprint. I owe it all to my mentors, my work ethic, and an intelligent use of ChatGPT. This year I am going to  be working on moving into the blockchain space. 
 
 Although I'm using dozens of tools and a few languages and frameworks; I believe my greatest skill that I've developed is patience. I am not a frameworker, I am not a React Developer, I may be something similar to a Systems Developer; but most importanly I am someone that utilizes whatever tools and languages necessary to solve simple and complex problems, and I'm confident enough to take on these problems even thought I may not have prior experience with them. 
