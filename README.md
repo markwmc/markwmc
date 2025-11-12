@@ -11,7 +11,6 @@
 
 -  Book I'm reading: [Beyond Cracking the Coding Interview](https://start.interviewing.io/beyond-ctci/part-i-preface/what-is-this-book)
 
-- 📫 How to reach me **[email](mark.mcclallen1@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
