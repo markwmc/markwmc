@@ -1,6 +1,6 @@
 # Mark McClallen
 
-**Fractional CTO | Software Architect | Army Veteran**
+** Software Architect | Army Veteran**
 
 I design and build technology systems for regulated industries where security, compliance, and business velocity must coexist.
 
@@ -19,7 +19,6 @@ I design and build technology systems for regulated industries where security, c
 
 | Project | Outcome |
 |---------|---------|
-| Mobile Platform Architecture | 10+ modules, payment + compliance integration |
 | Data Federation System | 15,000 members, 300+ employer data sources |
 | Compliance Infrastructure | GDPR/CCPA, KYB/KYC, audit trails |
 
